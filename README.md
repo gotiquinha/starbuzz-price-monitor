@@ -1,4 +1,4 @@
-# Head Firts Python  📚 / Use a cabeça Python 📚
+# Head First Python  📚 / Use a cabeça Python 📚
 
 ### Exercícios do Livro
 
